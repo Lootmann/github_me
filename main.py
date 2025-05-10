@@ -1,4 +1,4 @@
-from list_sum import list_sum
+from src.list_sum import list_sum
 
 
 def main():
